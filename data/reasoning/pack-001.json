@@ -1,0 +1,221 @@
+{
+ "pack": "reasoning-001",
+ "questions": [
+  {
+   "id": "r-ser-001",
+   "subject": "reasoning",
+   "topic": "series",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "medium",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "Find the next number: 2, 6, 12, 20, 30, ?",
+    "ml": "അടുത്ത സംഖ്യ കണ്ടെത്തുക: 2, 6, 12, 20, 30, ?"
+   },
+   "options": {
+    "en": [
+     "40",
+     "42",
+     "44",
+     "36"
+    ],
+    "ml": [
+     "40",
+     "42",
+     "44",
+     "36"
+    ]
+   },
+   "answer": 1,
+   "explanation": {
+    "en": "Differences 4, 6, 8, 10, so next difference is 12: 30 + 12 = 42.",
+    "ml": "വ്യത്യാസങ്ങൾ 4, 6, 8, 10, അടുത്തത് 12: 30 + 12 = 42."
+   }
+  },
+  {
+   "id": "r-ana-001",
+   "subject": "reasoning",
+   "topic": "analogies",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "easy",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "Book : Reading :: Knife : ?",
+    "ml": "പുസ്തകം : വായന :: കത്തി : ?"
+   },
+   "options": {
+    "en": [
+     "Cutting",
+     "Sharp",
+     "Kitchen",
+     "Steel"
+    ],
+    "ml": [
+     "മുറിക്കൽ",
+     "മൂർച്ച",
+     "അടുക്കള",
+     "സ്റ്റീൽ"
+    ]
+   },
+   "answer": 0,
+   "explanation": {
+    "en": "A book is used for reading; a knife is used for cutting.",
+    "ml": "പുസ്തകം വായനയ്ക്കും കത്തി മുറിക്കലിനും ഉപയോഗിക്കുന്നു."
+   }
+  },
+  {
+   "id": "r-cod-001",
+   "subject": "reasoning",
+   "topic": "coding-decoding",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "medium",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "If CAT is coded as DBU, how is DOG coded?",
+    "ml": "CAT-നെ DBU എന്ന് കോഡ് ചെയ്താൽ DOG-നെ എങ്ങനെ കോഡ് ചെയ്യും?"
+   },
+   "options": {
+    "en": [
+     "EPH",
+     "DPH",
+     "EOH",
+     "FPH"
+    ],
+    "ml": [
+     "EPH",
+     "DPH",
+     "EOH",
+     "FPH"
+    ]
+   },
+   "answer": 0,
+   "explanation": {
+    "en": "Each letter moves +1: D→E, O→P, G→H.",
+    "ml": "ഓരോ അക്ഷരവും +1: D→E, O→P, G→H."
+   }
+  },
+  {
+   "id": "r-dir-001",
+   "subject": "reasoning",
+   "topic": "directions",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "medium",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "A man walks 5 km north, then 3 km east, then 5 km south. How far is he from the start?",
+    "ml": "ഒരാൾ 5 കി.മീ. വടക്ക്, പിന്നെ 3 കി.മീ. കിഴക്ക്, പിന്നെ 5 കി.മീ. തെക്ക് നടന്നു. തുടക്കത്തിൽ നിന്ന് എത്ര അകലെയാണ്?"
+   },
+   "options": {
+    "en": [
+     "3 km",
+     "5 km",
+     "8 km",
+     "13 km"
+    ],
+    "ml": [
+     "3 കി.മീ.",
+     "5 കി.മീ.",
+     "8 കി.മീ.",
+     "13 കി.മീ."
+    ]
+   },
+   "answer": 0,
+   "explanation": {
+    "en": "North and south cancel; only 3 km east remains.",
+    "ml": "വടക്കും തെക്കും റദ്ദാകും; 3 കി.മീ. കിഴക്ക് മാത്രം ബാക്കി."
+   }
+  },
+  {
+   "id": "r-cla-001",
+   "subject": "reasoning",
+   "topic": "classification",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "easy",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "Find the odd one out: Apple, Mango, Potato, Banana",
+    "ml": "വ്യത്യസ്തമായത് കണ്ടെത്തുക: ആപ്പിൾ, മാമ്പഴം, ഉരുളക്കിഴങ്ങ്, വാഴപ്പഴം"
+   },
+   "options": {
+    "en": [
+     "Apple",
+     "Mango",
+     "Potato",
+     "Banana"
+    ],
+    "ml": [
+     "ആപ്പിൾ",
+     "മാമ്പഴം",
+     "ഉരുളക്കിഴങ്ങ്",
+     "വാഴപ്പഴം"
+    ]
+   },
+   "answer": 2,
+   "explanation": {
+    "en": "Potato is a vegetable (tuber); the others are fruits.",
+    "ml": "ഉരുളക്കിഴങ്ങ് പച്ചക്കറിയാണ്; മറ്റുള്ളവ പഴങ്ങൾ."
+   }
+  },
+  {
+   "id": "r-rel-001",
+   "subject": "reasoning",
+   "topic": "relationships",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "medium",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "Pointing to a man, a woman said, 'He is the son of my mother's only son.' How is the man related to the woman?",
+    "ml": "ഒരു പുരുഷനെ ചൂണ്ടി ഒരു സ്ത്രീ പറഞ്ഞു: 'ഇദ്ദേഹം എന്റെ അമ്മയുടെ ഏക മകന്റെ മകനാണ്.' അയാൾ സ്ത്രീക്ക് ആരാണ്?"
+   },
+   "options": {
+    "en": [
+     "Brother",
+     "Nephew",
+     "Uncle",
+     "Father"
+    ],
+    "ml": [
+     "സഹോദരൻ",
+     "സഹോദരപുത്രൻ",
+     "അമ്മാവൻ",
+     "അച്ഛൻ"
+    ]
+   },
+   "answer": 1,
+   "explanation": {
+    "en": "Mother's only son = her brother; his son is her nephew.",
+    "ml": "അമ്മയുടെ ഏക മകൻ = അവളുടെ സഹോദരൻ; അയാളുടെ മകൻ അവളുടെ സഹോദരപുത്രൻ."
+   }
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","title":"Question pack",
+"oneOf":[{"type":"array","items":{"$ref":"#/definitions/q"}},{"type":"object","properties":{"pack":{"type":"string"},"questions":{"type":"array","items":{"$ref":"#/definitions/q"}}},"required":["questions"]}],
+"definitions":{"bi":{"type":"object","required":["en"],"properties":{"en":{"type":"string"},"ml":{"type":"string"}}},
+"q":{"type":"object","required":["id","subject","topic","stage","difficulty","source","q","options","answer","explanation"],
+"properties":{"id":{"type":"string","pattern":"^[A-Za-z0-9_.-]+$","description":"Globally unique"},
+"subject":{"enum":["mathematics","reasoning","general-awareness"]},"topic":{"type":"string","description":"Must match an id in data/syllabus.json"},
+"stage":{"type":"array","items":{"enum":["CBT-1","CBT-2"]}},"difficulty":{"enum":["easy","medium","hard"]},
+"source":{"enum":["original","pyq-verified","official"],"description":"pyq-verified/official ONLY with a citable reference in 'reference'"},
+"reference":{"type":["string","null"],"description":"Paper name / URL for verified items"},"year":{"type":["integer","null"]},"shift":{"type":["string","null"]},
+"q":{"$ref":"#/definitions/bi"},"options":{"type":"object","required":["en"],"properties":{"en":{"type":"array","minItems":4,"maxItems":4,"items":{"type":"string"}},"ml":{"type":"array","minItems":4,"maxItems":4,"items":{"type":"string"}}}},
+"answer":{"type":"integer","minimum":0,"maximum":3},"explanation":{"$ref":"#/definitions/bi"}}}}}
