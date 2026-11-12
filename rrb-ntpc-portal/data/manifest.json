@@ -1,9 +1,0 @@
-{
- "version": 1,
- "packs": [
-  "mathematics/pack-001.json",
-  "reasoning/pack-001.json",
-  "general-awareness/pack-001.json",
-  "mathematics/gen-percent-001.json"
- ]
-}
