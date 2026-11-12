@@ -1,0 +1,221 @@
+{
+ "pack": "general-awareness-001",
+ "questions": [
+  {
+   "id": "g-pol-001",
+   "subject": "general-awareness",
+   "topic": "polity",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "easy",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "Who chaired the Drafting Committee of the Indian Constitution?",
+    "ml": "ഇന്ത്യൻ ഭരണഘടനയുടെ ഡ്രാഫ്റ്റിംഗ് കമ്മിറ്റിയുടെ അധ്യക്ഷൻ ആരായിരുന്നു?"
+   },
+   "options": {
+    "en": [
+     "Jawaharlal Nehru",
+     "B. R. Ambedkar",
+     "Rajendra Prasad",
+     "Sardar Patel"
+    ],
+    "ml": [
+     "ജവഹർലാൽ നെഹ്റു",
+     "ബി. ആർ. അംബേദ്കർ",
+     "രാജേന്ദ്ര പ്രസാദ്",
+     "സർദാർ പട്ടേൽ"
+    ]
+   },
+   "answer": 1,
+   "explanation": {
+    "en": "Dr B. R. Ambedkar chaired the Drafting Committee.",
+    "ml": "ഡോ. ബി. ആർ. അംബേദ്കറാണ് ഡ്രാഫ്റ്റിംഗ് കമ്മിറ്റിയുടെ അധ്യക്ഷൻ."
+   }
+  },
+  {
+   "id": "g-trn-001",
+   "subject": "general-awareness",
+   "topic": "transport",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "easy",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "Where is the Railway Board headquartered?",
+    "ml": "റെയിൽവേ ബോർഡിന്റെ ആസ്ഥാനം എവിടെയാണ്?"
+   },
+   "options": {
+    "en": [
+     "Mumbai",
+     "Kolkata",
+     "New Delhi",
+     "Chennai"
+    ],
+    "ml": [
+     "മുംബൈ",
+     "കൊൽക്കത്ത",
+     "ന്യൂഡൽഹി",
+     "ചെന്നൈ"
+    ]
+   },
+   "answer": 2,
+   "explanation": {
+    "en": "The Railway Board is in Rail Bhawan, New Delhi.",
+    "ml": "റെയിൽവേ ബോർഡ് ന്യൂഡൽഹിയിലെ റെയിൽ ഭവനിലാണ്."
+   }
+  },
+  {
+   "id": "g-sci-001",
+   "subject": "general-awareness",
+   "topic": "general-science",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "easy",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "What is the chemical symbol of sodium?",
+    "ml": "സോഡിയത്തിന്റെ രാസചിഹ്നം ഏത്?"
+   },
+   "options": {
+    "en": [
+     "So",
+     "Na",
+     "S",
+     "Sd"
+    ],
+    "ml": [
+     "So",
+     "Na",
+     "S",
+     "Sd"
+    ]
+   },
+   "answer": 1,
+   "explanation": {
+    "en": "Sodium's symbol Na comes from Latin 'natrium'.",
+    "ml": "സോഡിയത്തിന്റെ ചിഹ്നം Na ലാറ്റിൻ 'നാട്രിയം' എന്നതിൽ നിന്ന്."
+   }
+  },
+  {
+   "id": "g-sci-002",
+   "subject": "general-awareness",
+   "topic": "general-science",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "easy",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "Which gas is the most abundant in Earth's atmosphere?",
+    "ml": "ഭൂമിയുടെ അന്തരീക്ഷത്തിൽ ഏറ്റവും കൂടുതലുള്ള വാതകം ഏത്?"
+   },
+   "options": {
+    "en": [
+     "Oxygen",
+     "Nitrogen",
+     "Carbon dioxide",
+     "Argon"
+    ],
+    "ml": [
+     "ഓക്സിജൻ",
+     "നൈട്രജൻ",
+     "കാർബൺ ഡൈ ഓക്സൈഡ്",
+     "ആർഗൺ"
+    ]
+   },
+   "answer": 1,
+   "explanation": {
+    "en": "Nitrogen makes up about 78% of air.",
+    "ml": "വായുവിന്റെ ഏകദേശം 78% നൈട്രജനാണ്."
+   }
+  },
+  {
+   "id": "g-pol-002",
+   "subject": "general-awareness",
+   "topic": "polity",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "medium",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "Article 21 of the Indian Constitution deals with:",
+    "ml": "ഇന്ത്യൻ ഭരണഘടനയിലെ ആർട്ടിക്കിൾ 21 എന്തിനെക്കുറിച്ചാണ്?"
+   },
+   "options": {
+    "en": [
+     "Right to equality",
+     "Freedom of speech",
+     "Protection of life and personal liberty",
+     "Right to education"
+    ],
+    "ml": [
+     "സമത്വത്തിനുള്ള അവകാശം",
+     "അഭിപ്രായ സ്വാതന്ത്ര്യം",
+     "ജീവനും വ്യക്തിസ്വാതന്ത്ര്യത്തിനുമുള്ള സംരക്ഷണം",
+     "വിദ്യാഭ്യാസ അവകാശം"
+    ]
+   },
+   "answer": 2,
+   "explanation": {
+    "en": "Article 21 protects life and personal liberty.",
+    "ml": "ആർട്ടിക്കിൾ 21 ജീവനും വ്യക്തിസ്വാതന്ത്ര്യവും സംരക്ഷിക്കുന്നു."
+   }
+  },
+  {
+   "id": "g-art-001",
+   "subject": "general-awareness",
+   "topic": "art-culture",
+   "stage": [
+    "CBT-1",
+    "CBT-2"
+   ],
+   "difficulty": "easy",
+   "source": "original",
+   "year": null,
+   "shift": null,
+   "q": {
+    "en": "Kathakali is a classical dance-drama form of which state?",
+    "ml": "കഥകളി ഏത് സംസ്ഥാനത്തെ ശാസ്ത്രീയ നൃത്തനാടകമാണ്?"
+   },
+   "options": {
+    "en": [
+     "Tamil Nadu",
+     "Kerala",
+     "Odisha",
+     "Assam"
+    ],
+    "ml": [
+     "തമിഴ്നാട്",
+     "കേരളം",
+     "ഒഡീഷ",
+     "അസം"
+    ]
+   },
+   "answer": 1,
+   "explanation": {
+    "en": "Kathakali originated in Kerala.",
+    "ml": "കഥകളിയുടെ ഉത്ഭവം കേരളത്തിലാണ്."
+   }
+  }
+ ]
+}
